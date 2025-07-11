@@ -98,7 +98,7 @@
 
     <!-- Dependency Versions -->
     <version.com.blazebit.blaze-persistence>1.6.8</version.com.blazebit.blaze-persistence>
-    <version.com.fasterxml.jackson>2.14.2</version.com.fasterxml.jackson>
+    <version.com.fasterxml.jackson>2.15.0</version.com.fasterxml.jackson>
     <version.com.github.ben-manes.caffeine>3.1.6</version.com.github.ben-manes.caffeine>
     <version.com.github.seancfoley.ipaddress>5.3.4</version.com.github.seancfoley.ipaddress>
     <version.com.h2database>1.4.199</version.com.h2database> <!-- Unclear why, but 1.4.200 seems to cause some random issues, including inability for DB viewers to parse the data -->
@@ -170,7 +170,7 @@
     <version.com.hazelcast>5.3.0</version.com.hazelcast>
     <version.com.jcbai>1.20.1</version.com.jcbai>
     <version.org.skyscreamer.jsonassert>1.5.1</version.org.skyscreamer.jsonassert>
-    <version.org.redisson>3.20.1</version.org.redisson>
+    <version.org.redisson>3.21.1</version.org.redisson>
     <version.net.javacrumbs.json-unit>2.37.0</version.net.javacrumbs.json-unit>
     <version.info.picocli>4.7.3</version.info.picocli>
 
