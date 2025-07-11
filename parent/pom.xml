@@ -98,7 +98,7 @@
 
     <!-- Dependency Versions -->
     <version.com.blazebit.blaze-persistence>1.6.8</version.com.blazebit.blaze-persistence>
-    <version.com.fasterxml.jackson>2.14.2</version.com.fasterxml.jackson>
+    <version.com.fasterxml.jackson>2.15.0</version.com.fasterxml.jackson>
     <version.com.github.ben-manes.caffeine>3.1.6</version.com.github.ben-manes.caffeine>
     <version.com.github.seancfoley.ipaddress>5.3.4</version.com.github.seancfoley.ipaddress>
     <version.com.h2database>1.4.199</version.com.h2database> <!-- Unclear why, but 1.4.200 seems to cause some random issues, including inability for DB viewers to parse the data -->
@@ -148,7 +148,7 @@
     <version.org.jboss.weld.weld>3.1.8.Final</version.org.jboss.weld.weld>
     <version.org.jdbi>3.37.1</version.org.jdbi>
     <version.org.jsoup>1.15.4</version.org.jsoup>
-    <version.org.keycloak>18.0.2</version.org.keycloak>
+    <version.org.keycloak>22.0.0</version.org.keycloak>
     <version.org.lz4.lz4-java>1.8.0</version.org.lz4.lz4-java>
     <version.org.mockito>5.3.0</version.org.mockito>
     <version.org.mapstruct>1.5.4.Final</version.org.mapstruct>
