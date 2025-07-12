@@ -23,7 +23,7 @@
     <version.io.jsonwebtoken.jjwt>0.9.1</version.io.jsonwebtoken.jjwt>
     <version.com.auth0.jwks-rsa>0.8.2</version.com.auth0.jwks-rsa>
     <version.commons-lang>2.6</version.commons-lang>
-    <version.commons-validator>1.7</version.commons-validator>
+    <version.commons-validator>1.10.0</version.commons-validator>
   </properties>
 
   <dependencyManagement>
